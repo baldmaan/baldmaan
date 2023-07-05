@@ -4,7 +4,7 @@
 
 - 👨‍🎓 I'm a **Automation and Robotics** student at the **Poznan University of Technology**
 
-- 💡 Currently learning Angular, Spring, and Python
+- 💡 Currently learning Angular, Spring, and React
 
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-baldmaan-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dominik-wojtowicz/)
 <br>
