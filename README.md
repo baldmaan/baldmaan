@@ -2,9 +2,9 @@
 <br>
 <h2 align="center">👨 About me:</h2>
 
-- 👨‍🎓 I'm a **Automation and Robotics** student at the **Poznan University of Technology**
+- 👨‍🎓 Bachelor Degree in **Automation and Robotics** at the **Poznan University of Technology**
 
-- 💡 Currently learning Angular, Spring, and React
+- 💻 Co-owner and fullstack developer at [studilla.com](https://studilla.com/), frontend developer at Dynatrace
 
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-baldmaan-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dominik-wojtowicz/)
 <br>
