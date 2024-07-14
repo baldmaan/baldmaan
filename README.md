@@ -1,7 +1,7 @@
 
 # Dominik Wójtowicz
 
-**Frontend Developer | Angular & React Specialist**
+**Frontend Developer**
 
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/baldmaan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](http://www.linkedin.com/in/dominik-wojtowicz) [![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.ojtowi.cz)
 
