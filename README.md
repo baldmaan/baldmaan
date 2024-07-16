@@ -39,7 +39,7 @@ I am a motivated Frontend Developer with over 1 year of commercial experience in
 ### [studilla.com](https://studilla.com/)
 *06.2023 - Present*
 
-Social networking portal for students.
+Social networking portal for students with features such as AI-powered tester, calendar or job board dedicated to students.
 
 - **Technologies**: Angular, TypeScript, HTML&SCSS, RxJS, NgRx, Java, Spring
 - **Responsibilities**: UI design, state management, backend development.
