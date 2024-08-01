@@ -9,7 +9,13 @@
 
 ## About Me
 
-I am a motivated Frontend Developer with over 1 year of commercial experience in Angular and React, and more than 2 years of hands-on experience with Angular. I specialize in web design using Figma and translating designs into frontend applications. I hold a Bachelor's degree in Automatic Control and Robotics Engineering from Poznan University of Technology.
+Motivated Frontend Developer with over 1 year of commercial experience in Angular and React, and more than 2 years of hands-on experience with Angular in personal projects.
+
+Co-owner of studilla.com - social networking portal for students with features such as AI-powered tester, calendar or job board dedicated to students.
+
+Skilled in creating web designs using Figma and translating them into frontend applications using Angular, along with state management through NgRx and RxJS. Experienced in collaborating on backend development tasks using Spring.
+
+Holding a Bachelor's degree in Automatic Control and Robotics Engineering from Poznan University of Technology.
 
 ---
 
@@ -17,7 +23,7 @@ I am a motivated Frontend Developer with over 1 year of commercial experience in
 
 - **Frontend**: Angular, React, TypeScript, HTML, CSS/SCSS, RxJS 
 - **State Management**: NgRx, Context API
-- **UI/UX Design**: Figma, Angular Material, styled-components
+- **UI/UX Design**: Figma, Angular Material, styled-components, Material UI
 - **Backend**: Java, Spring
 - **Tools**: Git, Postman
 
@@ -25,12 +31,21 @@ I am a motivated Frontend Developer with over 1 year of commercial experience in
 
 ## Experience
 
-### Software Engineer, Dynatrace
+### Software Engineer, [dynatrace](https://dynatrace.com/)
 *07.2023 - 07.2024*
 
-- Developed and maintained Settings 2.0 application (Angular, RxJS, NgRx, Reactive Forms).
-- Built and maintained React applications (React, React Router, Context API, styled-components).
-- Collaborated with cross-functional teams.
+- Develop and maintain Settings 2.0 application based on multi-level forms created on JSON schema - Angular, Reactive Forms, RxJS, NgRx.
+- Build from scratch and maintain React applications - React, React Router, React Query, Context API, styled-components.
+- Work closely with cross-functional teams, including developers, designers, and product managers.
+
+### Fullstack Developer/Co-owner, [studilla.com](https://studilla.com/)
+*06.2023 - Present*
+
+- Design, build from scratch and maintain Angular application - Angular, Reactive Forms, NgRx, RxJS, Angular Materials.
+- Ensure cross-browser compatibility by identifying and fixing bugs across different web browsers.
+- Develop CRUD operations and other backend functionalities - Spring.
+- Create mockups ensuring design consistency, usability, and incorporating UX best practices - Figma
+
 
 ---
 
